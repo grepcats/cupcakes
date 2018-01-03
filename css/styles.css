@@ -29,3 +29,10 @@ img {
   text-align: center;
   margin: 0 25% 0 25%;
 }
+
+.sidebar {
+  float: left;
+  background-color: pink;
+  width: 120px;
+  padding: 20px;
+}
