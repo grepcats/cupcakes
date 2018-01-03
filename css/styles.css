@@ -1,0 +1,12 @@
+.best {
+  border: 10px solid green;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+img {
+  width: 300px;
+}
