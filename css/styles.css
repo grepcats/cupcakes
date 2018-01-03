@@ -1,3 +1,7 @@
+h1 {
+  font-size: 3em;
+}
+
 .best {
   border: 10px solid green;
 }
@@ -9,4 +13,19 @@
 
 img {
   width: 300px;
+}
+
+.exciting {
+  color: purple;
+  font-size: 1.5em;
+}
+
+.large {
+  color: green;
+  font-size: 1.75em;
+}
+
+.important {
+  text-align: center;
+  margin: 0 25% 0 25%;
 }
